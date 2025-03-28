@@ -1,1 +1,1 @@
-# This is repo for DSA problems
+# This is repository for DSA problems.
